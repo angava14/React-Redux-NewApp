@@ -12,13 +12,13 @@ $ npm start
 
 ### Modulos
 
-|Webpack |
+|React |
 |--------|
-|React|
 |Redux|
 |React Redux|
 | Firebase|
-|React Router|
-|Babel|
 |Bootstrap|
+|React Router|
+|Webpack|
+|Babel|
 |JQuery|
