@@ -4,7 +4,7 @@ Files for New React-Project
 ### Instalacion
 
 ```sh
-$ git clone https://github.com/angava14/React-Router-NewApp.git
+$ git clone https://github.com/angava14/React-Redux-NewApp.git
 $ npm install
 $ npm start
 
