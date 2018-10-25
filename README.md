@@ -1,4 +1,4 @@
-# React-Router-NewApp
+# React-Redux-NewApp
 Files for New React-Project
 
 ### Instalacion
